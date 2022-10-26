@@ -21,6 +21,8 @@
       "supportsTablet": true
     },
     "android": {
+      "pcakage": "ttpc.calculator",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
